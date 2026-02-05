@@ -54,14 +54,14 @@ export default function Home() {
               className={styles.btnShowName}
               onClick={() => setShowName(!showName)}
             >
-              {showName ? "Masquer le nom" : "Afficher le nom"}
+              {showName ? "Hide Name" : "Show Name"}
             </button>
             <button
               type="button"
               className={styles.btnNext}
               onClick={goNext}
             >
-              Image suivante
+                Next Image
             </button>
           </div>
         </div>
