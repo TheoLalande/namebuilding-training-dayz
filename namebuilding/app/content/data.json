@@ -20,87 +20,368 @@
     "fileName": "fortress-house"
   },
   {
-    "name": "Rasta House / Jamaican House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#123"
+    "name": "Red elevated house",
+    "fileName": "red-elevated"
   },
   {
-    "name": "Peach House / Pink-Roof House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#126"
+    "name": "Green elevated house",
+    "fileName": "green-elevated"
   },
   {
-    "name": "Attic House / Two-Tone Brown House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#127"
+    "name": "Rasta House",
+    "fileName": "rasta"
   },
   {
-    "name": "Green Mustache House / Skinny Green House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#128"
+    "name": "Peach House",
+    "fileName": "peach-house"
   },
   {
-    "name": "Restaurant / Café / Diner",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#129"
+    "name": "Attic House",
+    "fileName": "attic-house"
   },
   {
-    "name": "Barn House / Scope House / Piano House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#130"
+    "name": "Green Mustache House",
+    "fileName": "green-moustache"
   },
   {
-    "name": "Tavern / Lodge / Saloon",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#131"
+    "name": "Restaurant",
+    "fileName": "restaurant"
+  },
+  {
+    "name": "Barn House",
+    "fileName": "barn-house"
+  },
+  {
+    "name": "Piano House",
+    "fileName": "piano-house"
+  },
+  {
+    "name": "Tavern",
+    "fileName": "tavern"
   },
   {
     "name": "Watermelon House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#132"
+    "fileName": "watermelon"
   },
   {
     "name": "Orange Brick House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#133"
+    "fileName": "orange-brick"
   },
   {
     "name": "Arched Brick House / Red Brick House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#136"
+    "fileName": "arched-brick-house"
   },
   {
-    "name": "Granny House / Food House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#137"
+    "name": "Granny House",
+    "fileName": "granny-house"
   },
   {
-    "name": "Big Yellow House / Small Yellow House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#138"
+    "name": "Christmas house",
+    "fileName": "christmas-house"
   },
   {
-    "name": "Small Green House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#139"
+    "name": "Log Cabin",
+    "fileName": "log-cabin"
   },
   {
-    "name": "Log Cabin / Dark House / Gun House",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#140"
+    "name": "Gun house",
+    "fileName": "gun-house"
   },
   {
-    "name": "Blue Trim Shop / Fire Station / Police Station",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#141"
+    "name": "Fire Station",
+    "fileName": "fire-station"
   },
   {
-    "name": "Church / Chapel / Shrine",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#144"
+    "name": "Police Station",
+    "fileName": "police-station"
   },
   {
-    "name": "Supermarket / Village Store / School",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#148"
+    "name": "Police department (PD)",
+    "fileName": "police-department"
   },
   {
-    "name": "Medical / Clinic / Hospital",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#152"
+    "name": "Yellow Church",
+    "fileName": "yellow-church"
   },
   {
-    "name": "Camp House / Petrol Station",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#155"
+    "name": "Big Church",
+    "fileName": "big-church"
   },
   {
-    "name": "Bus Stop / Lavatory / Outhouse",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#223"
+    "name": "Shrine",
+    "fileName": "shrine"
+  },
+  {
+    "name": "Supermarket",
+    "fileName": "supermarket"
+  },
+  {
+    "name": "Village Store",
+    "fileName": "village-store"
+  },
+  {
+    "name": "School",
+    "fileName": "school"
+  },
+  {
+    "name": "Big office building",
+    "fileName": "big-office-building"
+  },
+  {
+    "name": "Small office building",
+    "fileName": "small-office-building"
+  },
+  {
+    "name": "Clinic",
+    "fileName": "clinic"
+  },
+  {
+    "name": "Hospital",
+    "fileName": "hospital"
+  },
+  {
+    "name": "Camp House",
+    "fileName": "camp-house"
+  },
+  {
+    "name": "Petrol Station",
+    "fileName": "petrol-station"
+  },
+  {
+    "name": "Guard Shack",
+    "fileName": "guard-shack"
+  },
+  {
+    "name": "Guard House",
+    "fileName": "guard-house"
+  },
+  {
+    "name": "Civilian Barack",
+    "fileName": "civilian-barrack"
+  },
+  {
+    "name": "Red-tin",
+    "fileName": "red-tin"
+  },
+  {
+    "name": "Red-roof-barn",
+    "fileName": "red-roof-barn"
+  },
+  {
+    "name": "Single Entrance barn",
+    "fileName": "single-entrance-barn"
+  },
+  {
+    "name": "Brown barn",
+    "fileName": "brown-barn"
+  },
+  {
+    "name": "Cow shed",
+    "fileName": "cow-shed"
+  },
+  {
+    "name": "Construction site",
+    "fileName": "construction-site"
+  },
+  {
+    "name": "Yellow Crane",
+    "fileName": "yellow-crane"
+  },
+  {
+    "name": "Kiosk",
+    "fileName": "kiosk"
+  },
+  {
+    "name": "Internation Hotel",
+    "fileName": "international-hotel"
+  },
+  {
+    "name": "Train Station",
+    "fileName": "train-station"
+  },
+  {
+    "name": "Corner bar",
+    "fileName": "corner-bar"
+  },
+  {
+    "name": "Corner blue",
+    "fileName": "corner-blue"
+  },
+  {
+    "name": "Orange door shop",
+    "fileName": "orange-door-shop"
+  },
+  {
+    "name": "Hunting Stand",
+    "fileName": "hunting-stand"
+  },
+  {
+    "name": "Feedshack",
+    "fileName": "feedshack"
+  },
+  {
+    "name": "Caravan",
+    "fileName": "caravan"
+  },
+  {
+    "name": "Radio tower",
+    "fileName": "radio-tower"
+  },
+  {
+    "name": "LightHouse",
+    "fileName": "lighthouse"
+  },
+  {
+    "name": "Altar",
+    "fileName": "altar"
+  },
+  {
+    "name": "Long Barrack",
+    "fileName": "long-barrack"
+  },
+  {
+    "name": "Double Barack",
+    "fileName": "double-barrack"
+  },
+  {
+    "name": "Two storey barrack",
+    "fileName": "two-storey-barrack"
+  },
+  {
+    "name": "L-Shaped Barrack",
+    "fileName": "l-shaped-barrack"
+  },
+  {
+    "name": "Officer's Barrack",
+    "fileName": "officers-barrack"
+  },
+  {
+    "name": "Single-Entrance Tent",
+    "fileName": "single-entrance-tent"
+  },
+  {
+    "name": "Double-Entrance Tent",
+    "fileName": "double-entrance-tent"
+  },
+  {
+    "name": "Medical Tent",
+    "fileName": "medical-tent"
+  },
+  {
+    "name": "Ghillie Bunker",
+    "fileName": "ghillie-bunker"
+  },
+  {
+    "name": "Sandbag Bunker",
+    "fileName": "sandbag-bunker"
+  },
+  {
+    "name": "Lemonade Stand",
+    "fileName": "lemonade-stand"
+  },
+  {
+    "name": "Container",
+    "fileName": "container"
+  },
+  {
+    "name": "Suicide Tower",
+    "fileName": "suicide-tower"
+  },
+  {
+    "name": "Watch Tower",
+    "fileName": "watch-tower"
+  },
+  {
+    "name": "Guard Tower",
+    "fileName": "guard-tower"
+  },
+  {
+    "name": "HQ Building",
+    "fileName": "hq-building"
+  },
+  {
+    "name": "Kitchen Building",
+    "fileName": "kitchen-building"
+  },
+  {
+    "name": "Radar Station",
+    "fileName": "radar-station"
+  },
+  {
+    "name": "Bunker",
+    "fileName": "bunker"
+  },
+  {
+    "name": "Helicopter Platform",
+    "fileName": "helicopter-platform"
+  },
+  {
+    "name": "ATC",
+    "fileName": "atc"
+  },
+  {
+    "name": "Hangar",
+    "fileName": "hangar"
+  },
+  {
+    "name": "Camo Building",
+    "fileName": "camo-building"
+  },
+  {
+    "name": "Gate Building",
+    "fileName": "gate-building"
+  },
+  {
+    "name": "Yellow Barracks",
+    "fileName": "yellow-barracks"
+  },
+  {
+    "name": "Blue Tin",
+    "fileName": "blue-tin"
+  },
+  {
+    "name": "Civilian Hangar",
+    "fileName": "civilian-hangar"
+  },
+  {
+    "name": "Wooden Shed",
+    "fileName": "wooden-shed"
+  },
+
+  {
+    "name": "Garage",
+    "fileName": "garage"
+  },
+  {
+    "name": "Yellow Garage",
+    "fileName": "yellow-garage"
+  },
+  {
+    "name": "Sewing Factory",
+    "fileName": "sewing-factory"
+  },
+  {
+    "name": "Glass Building",
+    "fileName": "glass-building"
+  },
+  {
+    "name": "Three Silo Building",
+    "fileName": "three-silo-building"
+  },
+  {
+    "name": "Plug Building",
+    "fileName": "plug-building"
   },
   {
     "name": "Water Tower",
-    "fileName": "https://steamcommunity.com/sharedfiles/filedetails/?id=1321790543#227"
+    "fileName": "water-tower"
+  },
+  {
+    "name": "Transformers",
+    "fileName": "transformers"
+  },
+  {
+    "name": "Boat House",
+    "fileName": "boat-house"
   }
 ]
