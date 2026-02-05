@@ -152,7 +152,7 @@ export default function Home() {
             {knownIds.size > 0 && (
               <div className={styles.debugKnown}>
                 <p className={styles.debugKnownTitle}>
-                  Known Buildings ({knownIds.size})
+                  Known Buildings ({knownIds.size}/{buildings.length})
                 </p>
                 <ul className={styles.debugKnownList}>
                   {Array.from(knownIds)
