@@ -1,7 +1,7 @@
 [
   {
     "name": "Small Apartment Building",
-    "fileName": "small-appartment-building.png"
+    "fileName": "small-appartment-building"
   },
   {
     "name": "Big Apartment Building",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Civilian Barack",
-    "fileName": "civilian-barrack"
+    "fileName": "civilian-barack"
   },
   {
     "name": "Red-tin",
@@ -237,7 +237,7 @@
   },
   {
     "name": "Long Barrack",
-    "fileName": "long-barrack"
+    "fileName": "long-barack"
   },
   {
     "name": "Double Barack",
@@ -375,10 +375,6 @@
   {
     "name": "Water Tower",
     "fileName": "water-tower"
-  },
-  {
-    "name": "Transformers",
-    "fileName": "transformers"
   },
   {
     "name": "Boat House",

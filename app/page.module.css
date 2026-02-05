@@ -24,9 +24,25 @@
   max-width: 800px;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   background-color: var(--foreground);
   padding: 48px 24px;
+}
+
+.appTitle {
+  margin: 16px 0 0 0;
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.mainContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
 .card {
@@ -69,22 +85,36 @@
 }
 
 .btnShowName,
+.btnKnow,
 .btnNext {
   padding: 12px 20px;
   border-radius: 8px;
   font-size: 1rem;
   font-weight: 500;
   cursor: pointer;
-  border: 1px solid var(--button-secondary-border);
-  background: var(--background);
-  color: var(--text-primary);
+  border: 1px solid transparent;
   transition: background 0.2s, border-color 0.2s;
 }
 
-.btnShowName:hover,
-.btnNext:hover {
+.btnShowName {
+  border-color: var(--button-secondary-border);
+  background: var(--background);
+  color: var(--text-primary);
+}
+
+.btnShowName:hover {
   background: var(--button-secondary-hover);
   border-color: transparent;
+}
+
+.btnKnow {
+  background: #22c55e;
+  color: #fff;
+  border-color: #16a34a;
+}
+
+.btnKnow:hover {
+  background: #16a34a;
 }
 
 .btnNext {
@@ -95,6 +125,66 @@
 
 .btnNext:hover {
   background: var(--button-primary-hover);
+}
+
+.allKnownWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.allKnown {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-align: center;
+}
+
+.btnReset {
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  border: 1px solid #b91c1c;
+  background: #dc2626;
+  color: #fff;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.btnReset:hover {
+  background: #b91c1c;
+}
+
+.debugKnown {
+  margin-top: 24px;
+  padding: 16px;
+  border: 1px dashed var(--button-secondary-border);
+  border-radius: 8px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.debugKnownTitle {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin: 0 0 8px 0;
+}
+
+.debugKnownList {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.debugKnownList li {
+  margin-bottom: 2px;
 }
 
 .intro {
