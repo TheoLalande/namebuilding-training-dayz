@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Script from "next/script"; // ⬅️ ajouter ça
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -25,6 +26,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
+        <Script
+          async
+          src="https://cloud.umami.is/script.js" // ⬅️ colle l’URL donnée par Umami
+          data-website-id="a9fedbb3-60b5-4331-bc15-eb8999306848" // ⬅️ colle l’ID de ton site
+        />
         {children}
       </body>
     </html>
